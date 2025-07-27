@@ -18,11 +18,11 @@ An intelligent and automated system for the dynamic analysis and control of Gene
 - Communication between MATLAB and the app via JSON
 - Intuitive graphical interface developed with FastAPI
 
-````
+
 
 ## 📷 Screenshots
 
-![home page](<../../../../Downloads/Captura de pantalla (182).png>)
+![home page](<captura interfaz.jpeg>)
 
 
 
