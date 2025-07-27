@@ -1,0 +1,10 @@
+targets, factors
+Neurona, AstrocitoQ & (!AstrocitoA | !M1 | !EstresOx)
+AstrocitoQ, Neurona
+M2, P3 | PlacasAB
+P3, Neurona & !M2 & !PlacasAB & !EstresOx
+P40y42, Neurona & (EstresOx | (!AstrocitoQ & (AstrocitoA | M1))
+PlacasAB, P40y42 & (!M2 | AstrocitoA)
+AstrocitoA, AstrocitoQ & (M1 | PlacasAB)
+EstresOx, PlacasAB | M1 | AstrocitoA
+M1, (M2 & PlacasAB) | PlacasAB
