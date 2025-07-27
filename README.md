@@ -20,8 +20,7 @@ An intelligent and automated system for the dynamic analysis and control of Gene
 
 ## 📷 Screenshots
 
-![home page](<../../Captura especial/captura interfaz.jpeg>)
-
+![home page](<captura interfaz.jpeg>)
 
 
 
