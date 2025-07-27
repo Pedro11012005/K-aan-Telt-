@@ -22,5 +22,14 @@ An intelligent and automated system for the dynamic analysis and control of Gene
 
 ![home page](<captura interfaz.jpeg>)
 
+## 🙋‍♂️ Authors
+
+**José Eduardo Chairez Veloz** ✉️ [jechairez@ciencias.unam.mx](mailto:jechairez@ciencias.unam.mx)  
+**Angel Ramses Tellez Becerra** ✉️ [angelramses@ciencias.unam.mx](mailto:angelramses@ciencias.unam.mx)  
+**Diego Chairez Veloz** ✉️ [diego.chairezvel@gmail.com](mailto:diego.chairezvel@gmail.com)  
+**Arturo Arroyo Núñez** ✉️ [arturo1421@ciencias.unam.mx](mailto:arturo1421@ciencias.unam.mx)
+
+
+
 
 
